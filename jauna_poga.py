@@ -1,5 +1,4 @@
-Jauna poga tests
+Jauna poga
 Jauna rinda
-Tests1234
 Hotfix
-Tests
+Tests 578
